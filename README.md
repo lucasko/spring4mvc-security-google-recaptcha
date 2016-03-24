@@ -4,7 +4,7 @@
 
 2. modify spring-securit.xml for private key (secret key).
 
-	p:privateKey="YOUR_SECRET_KEY" />
+		p:privateKey="YOUR_SECRET_KEY" />
 	
 3. modify VerifyRecaptcha.java for secre key and site key.
 ```JAVA
@@ -21,3 +21,7 @@
 
 ### Run Project on Server
 ==============================
+![image](https://github.com/lucas0x6b6f/spring4mvc-security-google-recaptcha/blob/master/src/main/resources/recaptcha-login-page.png)
+
+
+
