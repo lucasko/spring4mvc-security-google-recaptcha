@@ -3,6 +3,7 @@
 1. Let's register recaptcha for site key and secret key
 
 2. modify spring-securit.xml for private key (secret key).
+
 	p:privateKey="YOUR_SECRET_KEY" />
 	
 3. modify VerifyRecaptcha.java for secre key and site key.
