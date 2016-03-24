@@ -1,7 +1,13 @@
-### Before Starting
-==============================
+Package Explorer
+-----------------------------
+![image](https://github.com/lucas0x6b6f/spring4mvc-security-google-recaptcha/blob/master/src/main/resources/package-explorer.png)
+
+
+Before Starting
+------------------------------
 1. Let's register recaptcha for site key and secret key
-[Markdown](https://www.google.com/recaptcha/intro/index.html)
+
+[https://www.google.com/recaptcha/intro/index.html](https://www.google.com/recaptcha/intro/index.html)
 
 2. modify spring-securit.xml for private key (secret key).
 
@@ -20,8 +26,8 @@
 		</div>
 ```
 
-### Run Project on Server
-==============================
+Run Project on Server
+-----------------------------------------
 ![image](https://github.com/lucas0x6b6f/spring4mvc-security-google-recaptcha/blob/master/src/main/resources/recaptcha-login-page.png)
 
 
