@@ -42,7 +42,7 @@
 		p:proxyHost="" 
 		p:failureUrl="/login?error=true"
 		p:captchaCaptureFilter-ref="captchaCaptureFilter" 
-		p:privateKey="6Ld81hoTAAAAAGck8OS0oTSD8uDcgdBuXtbjj-f1" />
+		p:privateKey="YOUR_SECRET_KEY" />
 		
 
 </beans>
